@@ -1,0 +1,29 @@
+[
+    {
+   "country" : "Belgium",
+   "capital" : "Brussels",
+   "language" : "Dutch, French, German"
+    }, 
+    {
+   "country" : "France",
+   "capital" : "Paris",
+   "language" : "French"
+    },
+    {
+    "country" : "Italy",
+    "capital" : "Rome",
+    "language" : "Italian"
+    },
+
+    {
+        "country" : "England",
+        "capital" : "London",
+        "language" : "English"
+    },
+
+    { "country" : "Germany",
+    "capital" : "Berlin",
+    "language" : "German"
+
+    }
+]
